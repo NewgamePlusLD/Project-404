@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Game/DEMO_01/scn_demo_01.unity
+    path: Assets/Ambrosia's Leftovers/Scenes/Game/DEMO_01/scn_demo_01.unity
     guid: d67e57e7b0ef6bc42aa55850b3794b8f
   m_configObjects: {}
